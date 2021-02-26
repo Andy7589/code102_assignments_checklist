@@ -31,7 +31,7 @@
 - [ ] Read: 06a
 - [ ] Read: 06b
 - [X] Review: 05
-- [ ] Review: 06
+- [X] Review: 06
 
 
 ## **Feb25,2021**
