@@ -25,10 +25,28 @@
 
 ## **Feb24,2021**
 
-- [ ] w
-- [ ] w
-- [ ] w
-- [ ] w
+- [ ] Lab: 05
+- [ ] Lab: 06
+- [ ] Read: 05
+- [ ] Read: 06a
+- [ ] Read: 06b
+- [ ] Review: 05
+- [ ] Review: 06
+
+
+## **Feb25,2021**
+
+- [ ] Lab: 07
+- [ ] Lab: 08
+- [ ] Read: 07
+- [ ] Read: 08
+- [ ] Review: 07
+- [ ] Review: 08
+
+
+## **Feb26,2021**
+
+-[ ] Code 201 Entrance Exam
 
 
 
