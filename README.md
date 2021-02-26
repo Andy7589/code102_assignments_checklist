@@ -46,8 +46,11 @@
 
 ## **Feb26,2021**
 
--[ ] Code 201 Entrance Exam
-
+- [ ] Roll Call Attendance
+- [ ] Lab: 09
+- [ ] Exam: Entrance Code 201
+- [ ] Code 201 Entrance Exam Results
+- [ ] Feedback Survey
 
 
 
