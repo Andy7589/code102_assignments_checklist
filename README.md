@@ -19,8 +19,8 @@
 - [ ] Lab: 04
 - [ ] Read: 03
 - [ ] Read: 04
-- [ ] Review: 03
-- [ ] Review: 04
+- [X] Review: 03
+- [X] Review: 04
 
 
 ## **Feb24,2021**
