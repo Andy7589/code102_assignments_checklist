@@ -4,11 +4,13 @@
 ## **Feb22,2021**
 
 - [X] Porfessional Competency Self-Assessment
+- [X] Lab: 01a
+- [X] Lab: 01b
 - [X] Lab: 02
-- [ ] Read: 01
-- [ ] Read: 02
-- [ ] Review: 01
-- [ ] Review: 02
+- [X] Read: 01
+- [X] Read: 02
+- [X] Review: 01
+- [X] Review: 02
 
 
 ## **Feb23,2021**
