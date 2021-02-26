@@ -30,7 +30,7 @@
 - [ ] Read: 05
 - [ ] Read: 06a
 - [ ] Read: 06b
-- [ ] Review: 05
+- [X] Review: 05
 - [ ] Review: 06
 
 
