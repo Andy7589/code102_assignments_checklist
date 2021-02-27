@@ -41,7 +41,7 @@
 - [ ] Read: 07
 - [ ] Read: 08
 - [X] Review: 07
-- [ ] Review: 08
+- [X] Review: 08
 
 
 ## **Feb26,2021**
