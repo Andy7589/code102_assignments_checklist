@@ -37,7 +37,7 @@
 ## **Feb25,2021**
 
 - [ ] Lab: 07
-- [ ] Lab: 08
+- [X] Lab: 08
 - [ ] Read: 07
 - [ ] Read: 08
 - [X] Review: 07
@@ -46,11 +46,11 @@
 
 ## **Feb26,2021**
 
-- [ ] Roll Call Attendance
+- [X] Roll Call Attendance
 - [ ] Lab: 09
-- [ ] Exam: Entrance Code 201
-- [ ] Code 201 Entrance Exam Results
-- [ ] Feedback Survey
+- [X] Exam: Entrance Code 201
+- [X] Code 201 Entrance Exam Results
+- [X] Feedback Survey
 
 
 
