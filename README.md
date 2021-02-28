@@ -16,7 +16,7 @@
 ## **Feb23,2021**
 
 - [X] Lab: 03
-- [ ] Lab: 04
+- [X] Lab: 04
 - [ ] Read: 03
 - [ ] Read: 04
 - [X] Review: 03
