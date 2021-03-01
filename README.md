@@ -39,7 +39,7 @@
 - [X] Lab: 07
 - [X] Lab: 08
 - [ ] Read: 07
-- [ ] Read: 08
+- [X] Read: 08
 - [X] Review: 07
 - [X] Review: 08
 
