@@ -18,7 +18,7 @@
 - [X] Lab: 03
 - [X] Lab: 04
 - [X] Read: 03
-- [ ] Read: 04
+- [X] Read: 04
 - [X] Review: 03
 - [X] Review: 04
 
